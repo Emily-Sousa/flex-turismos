@@ -1,4 +1,4 @@
-# <p align="center">Flex TurismoS</p>
+# <p align="center">Flex Turismos</p>
 
 <div align="center">
  <img src="http://img.shields.io/static/v1?label=RELEASE&message=JULY%2022&color=green&style=for-the-badge"/>
