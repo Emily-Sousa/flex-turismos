@@ -6,9 +6,9 @@
 </div>
 
 <h3 align="center">
-  <a href="Sobre">Sobre</a> |
-  <a href="Tecnologias">Tecnologias</a> |
-  <a href="Preview">Preview</a>
+  <a href="#sobre">Sobre</a> |
+  <a href="#tecnologias">Tecnologias</a> |
+  <a href="#preview">Preview</a>
 </h3>
 
 ___
@@ -20,10 +20,10 @@ Landing page simples construída com intuito de aprimorar e rever conceitos de H
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/88735994/180287638-c5261a81-5fbc-40b5-bf2f-1e7654f0a5b1.png">
 
 
-## 🛠️ Tecnologias
+## Tecnologias
 * ``HTML``
 * ``CSS``
 * ``JavaScript``
 
-## 🖥️ Preview
+## Preview
 Você pode acessar a demo deste projeto pelo link https://emily-sousa.github.io/flex-turismos/
